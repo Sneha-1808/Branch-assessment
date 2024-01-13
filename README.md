@@ -1,9 +1,13 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## CS-Messaging-Web-App
 
-First, run the development server:
+## How to get Started?
+1. Make your you have installed node in your system.
+2. Clone the repository or dowload the zip file
+3. Open the unzipped file in VS code or any other code editor
 
+## COMMANDS
 ```bash
 npm run dev
 # or
@@ -11,8 +15,15 @@ yarn dev
 # or
 pnpm dev
 # or
-bun dev
+bun
 ```
+npm run server
+
+## Admin page
+After landing on admin sign in 
+Enter the password: Admin-Branch 
+First, run the development server:
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
