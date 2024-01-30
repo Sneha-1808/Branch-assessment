@@ -8,7 +8,7 @@ import Link from "next/link";
 import { useEffect, useState } from "react";
 import { Socket } from "socket.io-client";
 import DataPage from "@/components/DataPage";
-import JsonData from "@/components/jsonData";
+
 
 export default function Admin(){
     // const socket = io('http://localhost:3001');
@@ -140,8 +140,8 @@ export default function Admin(){
       </div>
     </div>
     
-    {/* <AdminChat/> */}
-    <JsonData/>
+    <AdminChat/>
+    {/* <JsonData/> */}
     </div>
     
     </>}
