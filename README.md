@@ -1,7 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## CS-Messaging-Web-App
-
+A messaging web application that can be used to respond to incoming questions sent by our customers
+## Additional features
+1. Implemented web socketIO for convenient chat.
+2. Implemented search feature for finding userID.
+3. Multiple and easy login of agents.
+   
 ## How to get Started?
 1. Make your you have installed node in your system.
 2. Clone the repository or dowload the zip file
